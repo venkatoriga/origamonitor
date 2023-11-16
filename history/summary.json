@@ -40,18 +40,20 @@
     "url": "https://teststore.origa.market",
     "icon": "https://icons.duckduckgo.com/ip3/teststore.origa.market.ico",
     "slug": "origa-test-store",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1577,
-    "timeDay": 1577,
-    "timeWeek": 1577,
-    "timeMonth": 1577,
-    "timeYear": 1577,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
+    "time": 1352,
+    "timeDay": 1352,
+    "timeWeek": 1352,
+    "timeMonth": 1352,
+    "timeYear": 1352,
+    "dailyMinutesDown": {
+      "2023-11-16": 0
+    }
   },
   {
     "name": "Origa Test Admin",
