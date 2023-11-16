@@ -7,9 +7,9 @@ sites:
     url: https://shop.origa.market
   - name: Origa Staging
     url: https://staging.origa.market
-  - name: Origa Test STore
+  - name: Origa Test Store
     url: https://teststore.origa.market
-  - name: Origa Admin
+  - name: Origa Test Admin
     url: https://testadmin.origa.market
   - name: Origa 
     url: https://origa.market
