@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.origa.market.ico",
     "slug": "origa-shop",
     "status": "up",
-    "uptime": "5.74%",
-    "uptimeDay": "5.74%",
-    "uptimeWeek": "5.74%",
-    "uptimeMonth": "5.74%",
-    "uptimeYear": "5.74%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 824,
     "timeDay": 824,
     "timeWeek": 824,
     "timeMonth": 824,
     "timeYear": 824,
-    "dailyMinutesDown": {
-      "2023-11-16": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
