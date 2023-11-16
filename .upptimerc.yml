@@ -5,4 +5,12 @@ repo: origamonitor # The name of this repository
 sites:
   - name: Origa Shop
     url: https://shop.origa.market
+  - name: Origa Staging
+    url: https://staging.origa.market
+  - name: Origa Test STore
+    url: https://teststore.origa.market
+  - name: Origa Admin
+    url: https://testadmin.origa.market
+  - name: Origa 
+    url: https://origa.market
 assignees:
