@@ -4,5 +4,5 @@ repo: origamonitor # The name of this repository
 
 sites:
   - name: Origa Shop
-    url: https://www.shop.origa.market
+    url: https://shop.origa.market
 assignees:
