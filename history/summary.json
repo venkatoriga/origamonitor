@@ -4,54 +4,59 @@
     "url": "https://shop.origa.market",
     "icon": "https://icons.duckduckgo.com/ip3/shop.origa.market.ico",
     "slug": "origa-shop",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 806,
     "timeDay": 860,
     "timeWeek": 813,
     "timeMonth": 806,
     "timeYear": 806,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 3
+    }
   },
   {
     "name": "Origa Staging",
     "url": "https://staging.origa.market",
     "icon": "https://icons.duckduckgo.com/ip3/staging.origa.market.ico",
     "slug": "origa-staging",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 815,
     "timeDay": 708,
     "timeWeek": 854,
     "timeMonth": 815,
     "timeYear": 815,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 2
+    }
   },
   {
     "name": "Origa Test Store",
     "url": "https://teststore.origa.market",
     "icon": "https://icons.duckduckgo.com/ip3/teststore.origa.market.ico",
     "slug": "origa-test-store",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 1059,
     "timeDay": 1098,
     "timeWeek": 1086,
     "timeMonth": 1059,
     "timeYear": 1059,
     "dailyMinutesDown": {
+      "2023-12-05": 1,
       "2023-11-16": 55
     }
   },
@@ -60,10 +65,10 @@
     "url": "https://testadmin.origa.market",
     "icon": "https://icons.duckduckgo.com/ip3/testadmin.origa.market.ico",
     "slug": "origa-test-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 800,
@@ -71,7 +76,9 @@
     "timeWeek": 838,
     "timeMonth": 800,
     "timeYear": 800,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 1
+    }
   },
   {
     "name": "Origa",
