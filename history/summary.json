@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 827,
-    "timeDay": 840,
-    "timeWeek": 809,
-    "timeMonth": 835,
-    "timeYear": 827,
+    "time": 830,
+    "timeDay": 973,
+    "timeWeek": 827,
+    "timeMonth": 845,
+    "timeYear": 830,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.origa.market.ico",
     "slug": "origa-staging",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "99.83%",
-    "time": 824,
-    "timeDay": 723,
-    "timeWeek": 824,
-    "timeMonth": 833,
-    "timeYear": 824,
+    "uptimeYear": "99.84%",
+    "time": 822,
+    "timeDay": 710,
+    "timeWeek": 836,
+    "timeMonth": 834,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2023-12-13": 96
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1038,
-    "timeDay": 1029,
-    "timeWeek": 1004,
-    "timeMonth": 1025,
-    "timeYear": 1038,
+    "time": 1036,
+    "timeDay": 916,
+    "timeWeek": 969,
+    "timeMonth": 1028,
+    "timeYear": 1036,
     "dailyMinutesDown": {
       "2023-11-16": 55
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 815,
-    "timeDay": 734,
-    "timeWeek": 762,
-    "timeMonth": 830,
-    "timeYear": 815,
+    "time": 812,
+    "timeDay": 697,
+    "timeWeek": 756,
+    "timeMonth": 827,
+    "timeYear": 812,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 157,
-    "timeWeek": 330,
+    "time": 235,
+    "timeDay": 116,
+    "timeWeek": 245,
     "timeMonth": 243,
-    "timeYear": 238,
+    "timeYear": 235,
     "dailyMinutesDown": {}
   }
 ]
