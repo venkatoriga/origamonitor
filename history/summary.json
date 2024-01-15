@@ -89,9 +89,9 @@
     "slug": "origa",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 246,
     "timeDay": 427,
@@ -99,7 +99,6 @@
     "timeMonth": 280,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2024-01-14": 6,
       "2024-01-11": 23
     }
   }
