@@ -4,18 +4,19 @@
     "url": "https://shop.origa.market",
     "icon": "https://icons.duckduckgo.com/ip3/shop.origa.market.ico",
     "slug": "origa-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 838,
-    "timeDay": 693,
-    "timeWeek": 794,
+    "timeDay": 767,
+    "timeWeek": 800,
     "timeMonth": 848,
     "timeYear": 838,
     "dailyMinutesDown": {
+      "2024-01-19": 0,
       "2024-01-11": 22
     }
   },
