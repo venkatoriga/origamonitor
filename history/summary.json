@@ -87,18 +87,19 @@
     "url": "https://origa.market",
     "icon": "https://icons.duckduckgo.com/ip3/origa.market.ico",
     "slug": "origa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 299,
-    "timeDay": 657,
-    "timeWeek": 288,
-    "timeMonth": 399,
-    "timeYear": 299,
+    "time": 298,
+    "timeDay": 439,
+    "timeWeek": 279,
+    "timeMonth": 394,
+    "timeYear": 298,
     "dailyMinutesDown": {
+      "2024-02-01": 0,
       "2024-01-11": 23
     }
   }
