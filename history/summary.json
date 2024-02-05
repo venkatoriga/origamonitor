@@ -6,9 +6,9 @@
     "slug": "origa-shop",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 841,
     "timeDay": 844,
@@ -16,7 +16,7 @@
     "timeMonth": 843,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2024-02-05": 0,
+      "2024-02-05": 7,
       "2024-01-11": 22
     }
   },
