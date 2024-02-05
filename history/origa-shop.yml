@@ -1,7 +1,7 @@
 url: https://shop.origa.market
-status: up
-code: 200
-responseTime: 807
-lastUpdated: 2024-02-04T23:10:22.015Z
+status: down
+code: 502
+responseTime: 880
+lastUpdated: 2024-02-05T19:27:14.129Z
 startTime: 2023-11-16T18:48:19.296Z
 generator: Upptime <https://github.com/upptime/upptime>
