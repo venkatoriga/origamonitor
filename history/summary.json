@@ -67,18 +67,19 @@
     "url": "https://testadmin.origa.market",
     "icon": "https://icons.duckduckgo.com/ip3/testadmin.origa.market.ico",
     "slug": "origa-test-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 796,
-    "timeDay": 836,
-    "timeWeek": 759,
-    "timeMonth": 771,
+    "timeDay": 787,
+    "timeWeek": 756,
+    "timeMonth": 770,
     "timeYear": 796,
     "dailyMinutesDown": {
+      "2024-02-08": 0,
       "2024-01-11": 22
     }
   },
@@ -95,7 +96,7 @@
     "uptimeYear": "99.98%",
     "time": 291,
     "timeDay": 457,
-    "timeWeek": 221,
+    "timeWeek": 235,
     "timeMonth": 371,
     "timeYear": 291,
     "dailyMinutesDown": {
