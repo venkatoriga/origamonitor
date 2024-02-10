@@ -4,9 +4,9 @@
     "url": "https://shop.origa.market",
     "icon": "https://icons.duckduckgo.com/ip3/shop.origa.market.ico",
     "slug": "origa-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 832,
     "timeYear": 836,
     "dailyMinutesDown": {
+      "2024-02-10": 0,
       "2024-01-11": 22
     }
   },
@@ -88,19 +89,19 @@
     "url": "https://origa.market",
     "icon": "https://icons.duckduckgo.com/ip3/origa.market.ico",
     "slug": "origa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 290,
-    "timeDay": 105,
-    "timeWeek": 266,
-    "timeMonth": 377,
-    "timeYear": 290,
+    "time": 294,
+    "timeDay": 408,
+    "timeWeek": 315,
+    "timeMonth": 385,
+    "timeYear": 294,
     "dailyMinutesDown": {
-      "2024-02-10": 0,
+      "2024-02-10": 7,
       "2024-01-11": 23
     }
   }
