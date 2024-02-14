@@ -1,7 +1,7 @@
 url: https://staging.origa.market
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-14T17:10:28.560Z
+code: 502
+responseTime: 1065
+lastUpdated: 2024-02-14T23:10:46.171Z
 startTime: 2023-11-16T18:58:34.718Z
 generator: Upptime <https://github.com/upptime/upptime>
