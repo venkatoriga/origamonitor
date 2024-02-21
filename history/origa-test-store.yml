@@ -1,7 +1,7 @@
 url: https://teststore.origa.market
-status: up
-code: 200
-responseTime: 912
-lastUpdated: 2024-02-20T23:10:07.849Z
+status: down
+code: 500
+responseTime: 705
+lastUpdated: 2024-02-21T06:08:15.493Z
 startTime: 2023-11-16T19:01:23.307Z
 generator: Upptime <https://github.com/upptime/upptime>
