@@ -32,10 +32,10 @@
     "url": "https://teststore.origa.market",
     "icon": "https://icons.duckduckgo.com/ip3/teststore.origa.market.ico",
     "slug": "origa-test-store",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 992,
@@ -44,6 +44,7 @@
     "timeMonth": 831,
     "timeYear": 992,
     "dailyMinutesDown": {
+      "2024-04-25": 1,
       "2024-02-21": 51,
       "2024-01-11": 22,
       "2023-11-16": 55
@@ -54,9 +55,9 @@
     "url": "https://testadmin.origa.market",
     "icon": "https://icons.duckduckgo.com/ip3/testadmin.origa.market.ico",
     "slug": "origa-test-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -66,6 +67,7 @@
     "timeMonth": 796,
     "timeYear": 798,
     "dailyMinutesDown": {
+      "2024-04-25": 0,
       "2024-01-11": 22
     }
   },
