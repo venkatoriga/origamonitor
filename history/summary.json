@@ -11,14 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 917,
-    "timeDay": 1116,
-    "timeWeek": 899,
-    "timeMonth": 868,
-    "timeYear": 897,
+    "timeDay": 788,
+    "timeWeek": 880,
+    "timeMonth": 867,
+    "timeYear": 896,
     "dailyMinutesDown": {
       "2024-06-10": 15,
-      "2024-02-21": 51,
-      "2024-01-11": 22
+      "2024-02-21": 51
     }
   },
   {
@@ -33,13 +32,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 811,
-    "timeDay": 928,
-    "timeWeek": 805,
-    "timeMonth": 824,
+    "timeDay": 749,
+    "timeWeek": 764,
+    "timeMonth": 825,
     "timeYear": 811,
-    "dailyMinutesDown": {
-      "2024-01-11": 22
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Origa",
@@ -53,17 +50,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
     "time": 694,
-    "timeDay": 1087,
-    "timeWeek": 785,
-    "timeMonth": 808,
-    "timeYear": 764,
+    "timeDay": 874,
+    "timeWeek": 805,
+    "timeMonth": 814,
+    "timeYear": 766,
     "dailyMinutesDown": {
       "2024-11-25": 638,
       "2024-11-24": 1186,
       "2024-08-26": 312,
       "2024-08-25": 605,
-      "2024-02-27": 15,
-      "2024-01-11": 23
+      "2024-02-27": 15
     }
   }
 ]
